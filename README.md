@@ -2,7 +2,7 @@
 
 Мовне видання: українська
 
-Англійська версія: https://github.com/tarasevychp/hp-elitebook-840-g5-ax210-amt-wifi-compatibility-English
+Англійська версія: https://github.com/Tarasevych/hp-elitebook-840-g5-ax210-amt-wifi-compatibility-English
 
 Цей репозиторій документує практичне дослідження сумісності: у власному HP EliteBook 840 G5 штатний WLAN-модуль покоління Intel vPro було замінено на Intel Wi-Fi 6E AX210. Операційна система прийняла оновлення, але Intel ME/AMT не показала AX210 як позасмуговий Wi-Fi-пристрій для керування до запуску ОС або поза ОС.
 
