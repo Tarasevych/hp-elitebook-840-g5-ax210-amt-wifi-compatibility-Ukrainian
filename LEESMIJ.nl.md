@@ -60,11 +60,11 @@ In plaats van te proberen niet-ondersteunde firmware aan te passen voor de AX210
 - [`docs/межі-ші-допомоги-в-ремонті.md`](./docs/межі-ші-допомоги-в-ремонті.md) — Grenzen van AI-ondersteuning bij hardware- en firmwarevraagstukken.
 
 ### Experimentverslagen (`docs/`)
-- [`docs/ax210-базова-перевірка-2026-07-09.md`](./docs/ax210-базова-перевірка-2026-07-09.md) — Basiscontrole van Intel AX210 onder Windows en ME/AMT.
+- [`docs/ах210-базова-перевірка-2026-07-09.md`](./docs/ах210-базова-перевірка-2026-07-09.md) — Basiscontrole van Intel AX210 onder Windows en ME/AMT.
 - [`docs/8265-контроль-2026-07-09.md`](./docs/8265-контроль-2026-07-09.md) — Controleproef met het oorspronkelijke Intel 8265-model.
 - [`docs/8265-інтерпретація-контролю-2026-07-09.md`](./docs/8265-інтерпретація-контролю-2026-07-09.md) — Interpretatie van de controleproef met de Intel 8265.
-- [`docs/8265-спроба-amt-wifi-досяжності-2026-07-09.md`](./docs/8265-спроба-amt-wifi-досяжності-2026-07-09.md) — Test van draadloze AMT-bereikbaarheid met de Intel 8265.
-- [`docs/8265-обмеження-wpa2-personal-psk-2026-07-09.md`](./docs/8265-обмеження-wpa2-personal-psk-2026-07-09.md) — Beperking van WPA2-Personal/PSK in AMT 11.8.
+- [`docs/8265-спроба-досяжності-амт-вайфай-2026-07-09.md`](./docs/8265-спроба-досяжності-амт-вайфай-2026-07-09.md) — Test van draadloze AMT-bereikbaarheid met de Intel 8265.
+- [`docs/8265-обмеження-особистого-ключа-впа2-2026-07-09.md`](./docs/8265-обмеження-особистого-ключа-впа2-2026-07-09.md) — Beperking van WPA2-Personal/PSK in AMT 11.8.
 
 ### Samenwerking en reproductie (`docs/`)
 - [`docs/запит-до-виробника.md`](./docs/запит-до-виробника.md) — Formeel verzoek aan HP en Intel voor duidelijke compatibiliteitsdocumentatie.
